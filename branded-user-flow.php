@@ -83,7 +83,7 @@ class Branded_User_Flow {
           'post_status' => 'publish',
           'post_type' => 'page',
           'ping_status' => 'closed',
-          'comment_status' => 'closed'
+          'comment_status' => 'closed',
         ]);
       }
     }
